@@ -1,0 +1,17 @@
+
+.form-group{
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    max-width: 600px;
+    align-items: center;  
+}  
+.body{
+    background-image: url("./Image/log2.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
